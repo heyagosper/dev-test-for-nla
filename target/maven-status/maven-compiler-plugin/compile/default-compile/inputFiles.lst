@@ -1,0 +1,9 @@
+/home/heya/workspace/dev-test-for-nla/src/main/java/com/heyagosper/loans/model/Person.java
+/home/heya/workspace/dev-test-for-nla/src/main/java/com/heyagosper/loans/service/impl/LoanServiceImpl.java
+/home/heya/workspace/dev-test-for-nla/src/main/java/com/heyagosper/loans/model/Loan.java
+/home/heya/workspace/dev-test-for-nla/src/main/java/com/heyagosper/loans/model/Book.java
+/home/heya/workspace/dev-test-for-nla/src/main/java/com/heyagosper/loans/controller/LoanController.java
+/home/heya/workspace/dev-test-for-nla/src/main/java/com/heyagosper/loans/service/LoanService.java
+/home/heya/workspace/dev-test-for-nla/src/main/java/com/heyagosper/loans/dao/BookMapper.java
+/home/heya/workspace/dev-test-for-nla/src/main/java/com/heyagosper/loans/dao/PersonMapper.java
+/home/heya/workspace/dev-test-for-nla/src/main/java/com/heyagosper/loans/dao/LoanDAO.java

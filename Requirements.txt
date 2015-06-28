@@ -1,0 +1,19 @@
+The task will be to create a simple Spring MVC application. You will seed it with some data and build a simple screen to display that data with a few actions.
+I want to be able to clone the repo from github and then type mvn jetty:run or the tomcat plugin if you are more  familiar with that and have it run out of the box.
+Tech required:
+
+  *   Maven as the build tool.
+  *   Spring MVC. You can use any version from 3 upwards.
+  *   Just use in memory database like H2. Or choose whatever one you are comfortable with. I am not fussed whether you use Hibernate or standard JPA to access the database. Our current project uses JDBI (http://jdbi.org/) but again choose whatever is familiar to you.
+  *   We use freemarker as our view technology but choose whatever view technology you are comfortable with.
+  *   We use bootstrap as our CSS framework. The goal is not a beautiful app but rather something functional.
+  *   We use Jquery but I am happy for you to use any javascript library you are comfortable with.
+
+Core Features:
+  *   I would to see a list of people in the database.
+  *   Also would like to see a list of books in the database.
+  *   For each person I would like to click a button where you perform an ajax query to the database to extract the books they have lent and then display the book details inline.
+
+In terms of data. A person just needs a name, phone number, email address. Books just need a title, author and ISBN. If you add more that is fine.
+
+Please seed it on startup with books and people and some people that have lent books so that I can startup it a click the buttons
