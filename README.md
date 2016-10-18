@@ -18,7 +18,7 @@ I used a template from Mykong.com for the basic skeleton and therefore have left
 
 ###2. To Run this project locally
 shell
-$ git clone https://github.com/heyagosper/dev-test-for nla
+$ git clone https://github.com/heyagosper/dev-test-for-nla
 $ mvn jetty:run
 
 Access http://localhost:8080/loans 
